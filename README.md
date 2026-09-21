@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-rm-systems.png" width="100%">
+  <img src="./banner.png" width="100%">
 <img width="2048" height="768" alt="Cbanner-rm-systems.png" src="https://github.com/user-attachments/assets/da093bb0-b48e-419c-a9d8-1baa5fddb7b1" />
 </div>
 
